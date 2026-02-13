@@ -1,1 +1,1 @@
-Hosted with Namecheap. Using GitHup pages for deployment.
+Hosted with Namecheap. Using GitHub pages for deployment.
